@@ -2,7 +2,7 @@ name: Jekyll Themes
 url: http://ppmanforthewin.github.io/jekyllthemes
 description: Insert tagline here
 
-permalink: /themes/:title/
+permalink: /jekyllthemes
 
 gems: [jekyll-paginate]
 
