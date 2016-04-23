@@ -1,15 +1,15 @@
 name: Jekyll Themes
-url: http://matt.harzewski.com
+url: http://ppmanforthewin.github.io/jekyllthemes
 description: Insert tagline here
 
 permalink: /themes/:title/
 
 gems: [jekyll-paginate]
 
-highlighter: pygments
+highlighter: rouge
 paginate: 20
 
-markdown: rdiscount
+markdown: kramdown
 rdiscount:
     extensions: ['smart']
 
